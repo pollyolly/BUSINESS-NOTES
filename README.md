@@ -31,3 +31,5 @@ Note: Advantage Nito ay di-kailangan patunayan ang Idea kung effective at Alam m
 [A Sneaky Way to Make $40k+ From SaaS](https://youtu.be/38f6Vp3fO3o)
 
 [How to Build a Software Company From Scratch Solo](https://youtu.be/_6lMB7H_6O0)
+
+[B2B SaaS List](https://growthlist.co/b2b-saas)
