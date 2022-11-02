@@ -7,8 +7,8 @@
 Business Tips SaaS:
 1. Mag hanap nang existing na Company
 2. Hindi na kailangan makipag compete
-3. Habang lumalaki ang mga Company na sasacrifice ang quality versus quantity
-4. Kumuha lang nang tiny feature/service na pwedeng iimprove sa existing na Company
+3. Habang lumalaki ang mga Company na sasacrifice ang quality versus quantity nang Software Features nila
+4. Kumuha lang nang Maliit na feature/service na pwedeng iimprove sa existing na Company
 5. Search ang kanilang Revenue
 6. Ang goal ay kumuha nang atleast 1% na kita base sa Revenue nang Company
 
