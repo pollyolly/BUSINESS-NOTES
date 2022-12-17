@@ -27,7 +27,25 @@ Note: Advantage Nito ay di-kailangan patunayan ang Idea kung effective at Alam m
             Hindi kumuha nang Gusto mo or Mahirap iimplement na Business para sayo.
             Kumuha nang Madali para sayo.
 ```
+#### PROJECT LENGHT SAMPLE
+```
+SIMPLE APPS (5 - 600 hrs) 2 months
+  - Simple UI and Data Storage
+    - Login, signup, profile creation, update
+    - Admin dashbaord
+    - i.e: Phone calculator, Alarms (do simple things)
+MEDIUM APPS (900 - 1000 hrs) 3 months
+  - Databases
+  - API-Based applications
+    - Soc Med integration, In-app purchasing, Realtime messaging, 3rd party API's
+COMPLEX APPS (No specified lenght, Require long term agreement)
+  -  Streaming
+  - Video Chats
+  - In-app calls
+  - Custom UI
+  - i.e: whats app and only fans
 
+```
 #### REFERENCES
 [A Sneaky Way to Make $40k+ From SaaS](https://youtu.be/38f6Vp3fO3o)
 
