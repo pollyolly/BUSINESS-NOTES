@@ -92,7 +92,16 @@ COMPLEX APPS (No specified lenght, Require long term agreement)
     - MOBILE SITE (WEB SITE IN MOBILE DESIGN) EASIER AND MOST OF THE TIME BEST SOLUTION
 7. 
 ```
+#### METHODOLOGY
+[AGILE METHOD](https://www.wrike.com/project-management-guide/faq/what-is-agile-methodology-in-project-management/)
+```
+  - SCRUM SPRINT
+  - KANBAN
+  - SCRUMBAN
+```
 #### REFERENCES
+[6 IMPORTANT QUESTION APP DEVELOPMENT](https://www.youtube.com/watch?v=I6rKBr-s1tQ)
+
 [A Sneaky Way to Make $40k+ From SaaS](https://youtu.be/38f6Vp3fO3o)
 
 [How to Build a Software Company From Scratch Solo](https://youtu.be/_6lMB7H_6O0)
