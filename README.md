@@ -100,6 +100,8 @@ COMPLEX APPS (No specified lenght, Require long term agreement)
   - SCRUMBAN
 ```
 #### REFERENCES
+[AGILE METHODOLOGY IN WORK](https://www.wrike.com/blog/8-attitudes-guaranteed-to-sink-your-agile-projects/)
+
 [6 IMPORTANT QUESTION APP DEVELOPMENT](https://www.youtube.com/watch?v=I6rKBr-s1tQ)
 
 [A Sneaky Way to Make $40k+ From SaaS](https://youtu.be/38f6Vp3fO3o)
