@@ -1,4 +1,20 @@
 # BUSINESS-NOTES
+#### ROM (Rough Order of Magnitude)
+[Rough Order of Magnitude](https://www.freecodecamp.org/news/what-is-a-rom-price-and-cost-estimate-2)
+```
+Lower Bound = ROM Estimate x 0.75
+Upper Bound = ROM Estimate x 1.75
+
+Sample: 
+Ticket cost 6$
+Popcorn cost $4
+For two person in a date would cost a total of 20$
+
+15$ = 20 x .75   - lower boundary of estimated total cost
+35$ = 20 x 1.75  - upper boundary of estimated total cost
+
+15$ to 35$       - Thinking if you go on a date you could expect to spend as much 30$
+```
 #### CONTRACT TEMPLATE
 [TEMPLATE CONTRACT](https://www.lawinsider.com/search?q=web+development&_index=contract)
 
