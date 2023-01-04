@@ -115,7 +115,7 @@ COMPLEX APPS (No specified lenght, Require long term agreement)
   - KANBAN
   - SCRUMBAN
 ```
-#### MARKETING APPS
+#### HOW TO MARKET ASO (App Search Optimization)
 [EASILY Increase App Downloads on App Store & Play Store in 2023](https://www.youtube.com/watch?v=mr43dRPNSWc)
 
 #### REFERENCES
