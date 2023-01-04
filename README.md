@@ -115,6 +115,9 @@ COMPLEX APPS (No specified lenght, Require long term agreement)
   - KANBAN
   - SCRUMBAN
 ```
+#### MARKETING APPS
+[EASILY Increase App Downloads on App Store & Play Store in 2023](https://www.youtube.com/watch?v=mr43dRPNSWc)
+
 #### REFERENCES
 [SCRUM TEAM](https://www.wrike.com/scrum-guide/scrum-team-roles/)
 
