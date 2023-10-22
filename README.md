@@ -1,7 +1,7 @@
 # BUSINESS-NOTES
 #### ROM (Rough Order of Magnitude)
 [Rough Order of Magnitude](https://www.freecodecamp.org/news/what-is-a-rom-price-and-cost-estimate-2)
-```
+```vim
 Lower Bound = ROM Estimate x 0.75
 Upper Bound = ROM Estimate x 1.75
 
@@ -19,7 +19,7 @@ For two person in a date would cost a total of 20$
 [TEMPLATE CONTRACT](https://www.lawinsider.com/search?q=web+development&_index=contract)
 
 #### SaaS Business Idea
-```
+```vim
 Business Tips SaaS:
 1. Mag hanap nang existing na Company
 2. Hindi na kailangan makipag compete
@@ -44,7 +44,7 @@ Note: Advantage Nito ay di-kailangan patunayan ang Idea kung effective at Alam m
             Kumuha nang Madali para sayo.
 ```
 #### PROJECT LENGHT SAMPLE
-```
+```vim
 SIMPLE APPS (5 - 600 hrs) 2 months
   - Simple UI and Data Storage
     - Login, signup, profile creation, update
@@ -63,7 +63,7 @@ COMPLEX APPS (No specified lenght, Require long term agreement)
 
 ```
 #### IMPORTANT QUESTIONS TO ANSWER AND IMPLEMENT
-```
+```vim
 1. WHAT IS YOUR METHODOLOGY? 
   - AGILE METHODOLOGY
   - SHOW SAMPLE PLAN OF DEVELOPMENT
